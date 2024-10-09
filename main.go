@@ -1,7 +1,7 @@
 package main
 
 import (
-    "logdemo/logger"
+    "chuanyi-zjc/logdemo/logger"
     "time"
 )
 
